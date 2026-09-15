@@ -240,7 +240,7 @@ export const CERTIFICATIONS = [
 // SOCIAL / CONTACT LINKS — ganti dengan link asli kamu
 // ============================================================
 export const SOCIALS = {
-  email: "trio@email.com",
+  email: "trioadhipamungkas04@gmail.com",
   github: "https://github.com/taps555",
   linkedin: "https://www.linkedin.com/in/trio-adhi-pamungkas-s-05742435b",
   instagram: "https://instagram.com/raadith04_",
